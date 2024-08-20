@@ -1,6 +1,6 @@
 AI Image Generator
 
-Hi there! This is AI Image Generator Flutter application that leverages artificial intelligence to create unique and customizable images. Users can generate visually stunning images using a powerful AI-driven API, offering a seamless and interactive experience. The app features user authentication, including Google Sign-In, to provide a personalized and secure environment.
+Hi there! This is AI Image Generator Flutter application that leverages artificial intelligence to create unique and customizable images. Users can generate and download visually stunning images using a powerful AI-driven API, offering a seamless and interactive experience!
 
 The APi source: https://platform.imagine.art/
 
