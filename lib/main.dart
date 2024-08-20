@@ -10,10 +10,10 @@ void main() async {
   await Firebase.initializeApp(
   options: FirebaseOptions(
     apiKey: 'Api_Key',
-    appId: "1:927665244674:android:1bbf42b6ad0194a7e2751b",
-    messagingSenderId: "927665244674",
-    projectId: "social-343b9",
-    storageBucket: "social-343b9.appspot.com",
+    appId: "appId",
+    messagingSenderId: "messagingSenderId",
+    projectId: "projectId",
+    storageBucket: "storageBucket",
   )
 );
   runApp( MainApp());
